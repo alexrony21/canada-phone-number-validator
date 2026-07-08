@@ -5,13 +5,13 @@
 ![Canada carrier Validator](https://raw.githubusercontent.com/pythoncode26/canada-carrier-validator/refs/heads/main/canada-carrier-validator.png)
 
 ## Key Features:
-- Fast and efficient number validation.
-- Ensure the accuracy of the phone numbers.
-- Includes Mobile, Landline, VOIP, and more.
-- Check numbers by popular carriers.
-- Import any quantity of phone numbers for validation.
-- Can handle large volumes of requests smoothly.
-- Reliable service with minimal downtime.
+- Fast and efficient number validation
+- Ensure the accuracy of the phone numbers
+- Includes Mobile, Landline, VOIP, and more
+- Check numbers by popular carriers
+- Import any quantity of phone numbers for validation
+- Can handle large volumes of requests smoothly
+- Reliable service with minimal downtime
 
 ---
 
